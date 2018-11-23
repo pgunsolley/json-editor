@@ -1,0 +1,12 @@
+{
+  "name": "json-editor",
+  "version": "0.0.1",
+  "description": "Edit JSON files effeciently",
+  "main": "index.js",
+  "author": "Patrick Gunsolley",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^10.12.10"
+  }
+}

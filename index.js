@@ -1,0 +1,1 @@
+module.exports.JsonEditor = require('./dist/jsonEditor.js').JsonEditor;
