@@ -41,7 +41,7 @@ We will overwrite the value of "message" in the 2nd array item to "baz":
         return jsonObj;
       });
 
-      // If you do not need to write to the file, use .readyonly instead.
+      // If you do not need to write to the file, use .readonly instead.
       await je.readonly(jsonObj => console.log(jsonObj));
     })();
 
